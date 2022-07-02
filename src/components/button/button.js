@@ -5,3 +5,4 @@ export function Button({children, ...rest }) {
     <button className="btn btn-primary" {...rest}>{children}</button>
   )
 }
+
