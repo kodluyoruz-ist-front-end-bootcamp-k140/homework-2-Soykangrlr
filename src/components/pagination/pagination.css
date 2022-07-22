@@ -1,0 +1,9 @@
+.pagination{
+    display: flex;
+    justify-content:end;
+    align-items: center;
+    margin-right: 55px;
+}
+.pagination>p{
+    margin-top: 15px;
+}
